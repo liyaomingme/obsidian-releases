@@ -3928,5 +3928,12 @@
     "repo": "brightwav3/Coding-Agent-Theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Settled Ink",
+    "author": "Qilinora",
+    "repo": "liyaomingme/obsidian-settled-ink",
+    "screenshot": "screenshot.png",
+    "modes": ["light", "dark"]
   }
 ]
